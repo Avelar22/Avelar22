@@ -22,6 +22,6 @@ Hola, me llamo Rodrigo<br>Soy estudiante con conocimientos basicos en programaci
 ![](https://github-contributor-stats.vercel.app/api?username=Avelar22&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Avelar22&icon=6&color=3)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Avelar22&icon=6&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
